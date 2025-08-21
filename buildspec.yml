@@ -18,3 +18,4 @@ artifacts:
     - 'dist/test-angular-project/**/*'
     - appspec.yml
     - 'deploy-scripts/**/*'
+    
